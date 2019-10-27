@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "894cb21d-eb9b-4ce0-8a80-bca29dc414c8",
+            "Value": {
+                "id": "844e9f57-8550-472f-8b0f-331a9dddf67b",
+                "resourcePath": "objects\\Teleporter\\Teleporter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a09c22e1-b20d-4031-a90c-e612e7d1b54b",
             "Value": {
                 "id": "75f68346-daac-4bf0-8a05-7147a44a158f",
