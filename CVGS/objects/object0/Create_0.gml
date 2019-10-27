@@ -8,3 +8,4 @@ enum states {
 }
 
 current_state = states.walking
+likes = 0
