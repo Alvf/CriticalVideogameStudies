@@ -55,3 +55,7 @@ else if(current_state = states.falling){
 		hspeed = 0
 	}
 }
+
+if(y<0){
+	room_goto(room+1)
+}
