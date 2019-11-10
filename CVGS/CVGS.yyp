@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "10e869bd-8b7c-4d1c-a51b-d622c0586e5b",
+            "Value": {
+                "id": "86b8e514-22ff-4fb7-b0b7-b7d10d19c11b",
+                "resourcePath": "sprites\\WSAD_ICon\\WSAD_ICon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "161dfe0b-6d31-4416-b970-ed1aad43b347",
             "Value": {
                 "id": "48ab9284-b295-4bc2-ac38-b8dcd299b768",
@@ -100,6 +108,14 @@
                 "id": "683d6c45-76ba-4451-9b0b-1c392ca7ab30",
                 "resourcePath": "views\\47e5b852-33ca-4845-9f59-460edfae12fd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a34222b-216f-41bc-9598-c2e07ea6a440",
+            "Value": {
+                "id": "511f09a6-5889-4f6f-80ee-926fec1c91c2",
+                "resourcePath": "objects\\KeyTutorial\\KeyTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
