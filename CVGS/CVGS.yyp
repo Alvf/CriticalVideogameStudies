@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "09854b13-c6cd-410a-ac8b-ed44231445c1",
+            "Value": {
+                "id": "5788965b-62fa-4080-8b71-2514d251fc5a",
+                "resourcePath": "sprites\\PhoneBkg\\PhoneBkg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "161dfe0b-6d31-4416-b970-ed1aad43b347",
             "Value": {
                 "id": "48ab9284-b295-4bc2-ac38-b8dcd299b768",
