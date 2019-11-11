@@ -40,6 +40,10 @@ else if(current_state = states.falling){
 		hspeed = +7
 	}
 	
+	if(keyboard_check(ord("S"))){
+		vspeed +=1
+	}
+	
 	if(place_meeting(x,y+vspeed,Plat)){
 		while (!place_meeting(x,y+sign(vspeed),Plat)){
 			y = y + sign(vspeed)
