@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "bac23843-31ca-4124-9166-3e305db9c5f0",
+            "Value": {
+                "id": "1d32b05f-289b-4538-86b3-17bc958a32df",
+                "resourcePath": "sprites\\PostSprite\\PostSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bcf20454-7179-499e-a79b-c759d61ee450",
             "Value": {
                 "id": "4cad6c3d-9316-4da1-b4f4-f33460aba50d",

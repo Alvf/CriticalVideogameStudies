@@ -33,15 +33,25 @@ if(current_state = states.walking){
 
 else if(current_state = states.falling){
 	vspeed +=1
-	if(keyboard_check(ord("A"))){
-		hspeed = -7
-	}
-	else if(keyboard_check(ord("D"))){
-		hspeed = +7
-	}
 	
 	if(keyboard_check(ord("S"))){
 		vspeed +=1
+		if(hspeed == 7){
+			hspeed = 5
+		}
+		else if(hspeed ==-7){
+			hspeed = -5
+		}
+		if(image_index == 4){
+			image_speed = 0
+		}
+		else{
+			image_speed =2
+		}
+	}
+	else{
+		image_index = 0
+		image_speed = 0
 	}
 	
 	if(place_meeting(x,y+vspeed,Plat)){
@@ -49,6 +59,8 @@ else if(current_state = states.falling){
 			y = y + sign(vspeed)
 		}
 		current_state = states.walking
+		image_index = 0
+		image_speed = 0
 		vspeed = 0
 	}
 	
