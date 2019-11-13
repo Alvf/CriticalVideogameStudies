@@ -23,6 +23,7 @@ if(current_state = states.walking){
 	
 	if(keyboard_check_pressed(ord("W"))){
 		vspeed = -30
+		audio_play_sound(Jump,60,false)
 		current_state = states.falling
 	}
 	if(y != 1720-64 and !place_meeting(x,y+1,Plat)){
