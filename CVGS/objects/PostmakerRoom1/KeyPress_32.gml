@@ -7,6 +7,6 @@ if(distance_to_object(object0)<=128){
 	solidplat.image_xscale = image_xscale
 	solidplat.image_yscale = image_yscale
 	solidplat.lowtext = 3
-	solidplat.hightext = 5
+	solidplat.hightext = 6
 	instance_destroy()
 }
