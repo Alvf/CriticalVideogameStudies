@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "2199c52a-b576-49d3-b52f-7c6ac47fae04",
+            "Value": {
+                "id": "192a776c-e2fd-4673-9975-6f5a95e87e50",
+                "resourcePath": "objects\\NoteSpawn\\NoteSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "247e32ce-6dfd-4093-beec-cc3c269bee5a",
             "Value": {
                 "id": "82590434-7a16-4683-a98f-6403f241a571",
@@ -195,6 +203,14 @@
             "Value": {
                 "id": "2e464d84-534e-4b2b-91f0-ebd94852e7b1",
                 "resourcePath": "objects\\Like\\Like.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "370cd32a-26eb-421b-ad8d-473e17a0ac00",
+            "Value": {
+                "id": "5de2a724-5505-4816-929c-ddc28ca7e7b2",
+                "resourcePath": "objects\\GlobalMaker\\GlobalMaker.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -375,6 +391,14 @@
             }
         },
         {
+            "Key": "8dabafbb-5879-4199-8fb5-6643647c081b",
+            "Value": {
+                "id": "e29bba94-16fc-4011-bd4e-5f34868e19b3",
+                "resourcePath": "objects\\Logger\\Logger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95bbeff2-cc6c-4c24-b7f8-ff394bb464d9",
             "Value": {
                 "id": "34e2f29b-c741-4927-aa31-4d125430a438",
@@ -427,6 +451,14 @@
             "Value": {
                 "id": "a98f7eeb-e6d8-4740-a83a-40eed1b9e457",
                 "resourcePath": "objects\\hi\\hi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5a84ead-52d3-49ea-82d2-2ecd5dcaa940",
+            "Value": {
+                "id": "be85c3d6-e511-4da1-90f3-abc7db027415",
+                "resourcePath": "objects\\Note_forGuitar\\Note_forGuitar.yy",
                 "resourceType": "GMObject"
             }
         },
