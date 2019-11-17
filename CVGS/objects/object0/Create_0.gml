@@ -9,4 +9,5 @@ enum states {
 
 current_state = states.walking
 
+sprite_index = global.playersprite
 image_speed = 0

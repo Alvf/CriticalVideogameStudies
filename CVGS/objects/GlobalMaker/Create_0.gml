@@ -3,3 +3,4 @@
 
 global.guitarscore = 0
 global.room2done = false
+global.room1done = false

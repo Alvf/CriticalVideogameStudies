@@ -9,7 +9,9 @@
         "52e7df53-fb45-4558-87c5-217659c51252",
         "0a7fe222-f4da-4ecf-a974-606ac88e7d13",
         "a3fb4db7-27a3-487d-8248-02619f976e48",
-        "0a4c10c5-d08e-45c4-a868-ed90d1a4e75d"
+        "0a4c10c5-d08e-45c4-a868-ed90d1a4e75d",
+        "08fd7890-8212-4583-bdff-a53652e0ba0b",
+        "a2c6c08d-3cdb-4eb0-aea4-38a817a656ae"
     ],
     "filterType": "GMObject",
     "folderName": "FloatingText",

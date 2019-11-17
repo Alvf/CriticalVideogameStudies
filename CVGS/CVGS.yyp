@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "08fd7890-8212-4583-bdff-a53652e0ba0b",
+            "Value": {
+                "id": "2881586b-55f1-4634-84a0-f9502de1e25d",
+                "resourcePath": "objects\\BadGuitar\\BadGuitar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0903e0c0-af16-48ee-ae0d-7d91526c879f",
             "Value": {
                 "id": "a3e6d8e7-b3dc-4554-97d0-91edf9e2aaa5",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "13d6b27e-1a1e-436e-9076-2399d96a8ce8",
+            "Value": {
+                "id": "4838395a-67ee-4d68-b717-c9a31bbd0c34",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "14adab67-051b-4108-822d-3193f282485b",
             "Value": {
                 "id": "19bb2f09-8242-4337-9ec5-87084d01c82d",
@@ -147,6 +163,14 @@
             "Value": {
                 "id": "ce53d971-22b5-4467-8883-d65fe869a77f",
                 "resourcePath": "sprites\\Wsprite\\Wsprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29574f0f-93ab-4c90-85a1-2010f6314f23",
+            "Value": {
+                "id": "56e06e28-b0f1-482f-8b4d-2d92ff06c79c",
+                "resourcePath": "sprites\\sprite17\\sprite17.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -303,6 +327,14 @@
             }
         },
         {
+            "Key": "5d0a7a7e-543c-4347-bd88-30bc816a8d1d",
+            "Value": {
+                "id": "59b5e893-822f-44b1-b96f-378b2f741b83",
+                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "664b1b11-3bbe-46c4-9faa-6d3d430c36d4",
             "Value": {
                 "id": "523d0b25-0bd0-49f6-b9f7-b9a757e92e1d",
@@ -316,6 +348,14 @@
                 "id": "17bbf494-7bbb-48f9-8948-21187ae5f8dd",
                 "resourcePath": "views\\68e14cca-9e13-47d1-bb67-46149ec0f579.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6eab4869-60b0-44a2-b654-0cc2b68aef5b",
+            "Value": {
+                "id": "92a1de5e-be3f-4659-8e37-fc889ad4d37b",
+                "resourcePath": "sprites\\sprite23\\sprite23.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -340,6 +380,14 @@
                 "id": "628665d5-413e-4822-aeaa-3de9f2938738",
                 "resourcePath": "rooms\\GuitarHeroRoom\\GuitarHeroRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "77475e86-6213-4805-89b4-e59a94775da5",
+            "Value": {
+                "id": "e4677448-09d8-4b8a-8df8-affcd8d056d1",
+                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,6 +447,14 @@
             }
         },
         {
+            "Key": "8f870ccf-21a0-4f79-8580-41fa953d0d41",
+            "Value": {
+                "id": "92991d92-f038-465d-94ac-00766abed888",
+                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95bbeff2-cc6c-4c24-b7f8-ff394bb464d9",
             "Value": {
                 "id": "34e2f29b-c741-4927-aa31-4d125430a438",
@@ -439,6 +495,14 @@
             }
         },
         {
+            "Key": "a2c6c08d-3cdb-4eb0-aea4-38a817a656ae",
+            "Value": {
+                "id": "bf6e98a0-470b-4a04-b19c-997e85e9fac5",
+                "resourcePath": "objects\\GoodGuitar\\GoodGuitar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a382b48a-b691-462c-a2d8-cc0092fe09a5",
             "Value": {
                 "id": "77c70bb2-e8c3-439b-bd38-9ef69fc44101",
@@ -460,6 +524,14 @@
                 "id": "be85c3d6-e511-4da1-90f3-abc7db027415",
                 "resourcePath": "objects\\Note_forGuitar\\Note_forGuitar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5ad10e6-42c4-468c-8ce8-62c99f42c1e5",
+            "Value": {
+                "id": "88b58989-af5a-4f81-a7f3-fe47804890e4",
+                "resourcePath": "sprites\\GheroTexts\\GheroTexts.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,6 +575,14 @@
             }
         },
         {
+            "Key": "b288fed8-32e4-4b56-bec5-1d93dd89fe91",
+            "Value": {
+                "id": "5f7ca4d0-e0bd-4437-9795-cb98b24c5922",
+                "resourcePath": "rooms\\room5\\room5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b60a8af6-49f1-4fbb-b388-47cbf34ad525",
             "Value": {
                 "id": "f3cad5c9-1f6e-495f-b511-a25747e83317",
@@ -527,6 +607,14 @@
             }
         },
         {
+            "Key": "c0094b7a-87eb-48c2-8cad-ceef642aa34d",
+            "Value": {
+                "id": "ddceb0e9-7d9f-4da6-9998-093b6bfa7f6b",
+                "resourcePath": "sprites\\sprite22\\sprite22.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c752d89b-0c3a-4c8f-b033-ed87525675bb",
             "Value": {
                 "id": "a684bd8a-77a2-4cda-b471-414067b0762e",
@@ -548,6 +636,14 @@
                 "id": "00343a39-46c1-4371-b711-fb8d4b448a32",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d91c31b0-b0e2-4fc1-a3fc-1f0fa96f7d6f",
+            "Value": {
+                "id": "37933753-6c43-4db6-ac1a-aa3e473fc8a6",
+                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -639,6 +735,14 @@
             }
         },
         {
+            "Key": "f343ce11-caa8-4673-aaf8-fefea1853012",
+            "Value": {
+                "id": "5331d7aa-7a0d-45e3-a9c1-1b89899a9c21",
+                "resourcePath": "sprites\\GheroTextsBad\\GheroTextsBad.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "7f046835-56dc-43ce-b391-81600da3b447",
@@ -663,11 +767,27 @@
             }
         },
         {
+            "Key": "fa045e8e-1574-41ea-b1fb-b16f76b5da4e",
+            "Value": {
+                "id": "ceca09ab-ea38-4e8b-b4c6-f6ecb388039f",
+                "resourcePath": "objects\\Randomizer\\Randomizer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fac2b76b-8c7a-48e4-b852-04da9facef7c",
             "Value": {
                 "id": "f4ae8274-2af4-4db2-841d-89a4017320c5",
                 "resourcePath": "sprites\\sprite11\\sprite11.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd9e42c7-8c03-49cb-80d0-00514b6bd9f4",
+            "Value": {
+                "id": "5fb630f7-f199-467e-9d24-a07836425d49",
+                "resourcePath": "objects\\PostmakerRoom2\\PostmakerRoom2.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
