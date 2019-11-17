@@ -1,11 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(totalnotes <=0){
+	if(global.guitarscore>=5){
+	global.platstates[prevplat] = 1
+	}
+	else{
+	global.platstates[prevplat] = 2
+	}
 	room_goto(prevroom)
-	global.room2done = true
 }
 
-if(current_time-droptime>=delayspawn){
+if(current_time-droptime>=delayspawn and creatednotes>0){
 	droptime = current_time
 switch(floor(random_range(1,5))){
 case 1:
@@ -14,6 +19,7 @@ case 1:
 		
 		var wdrop = instance_create_layer(0,32,"Instances",Note_forGuitar)
 		wdrop.vspeed = toughness
+
 	}
 	break;
 case 2:
