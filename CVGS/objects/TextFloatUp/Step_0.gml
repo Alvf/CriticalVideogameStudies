@@ -7,3 +7,6 @@ image_alpha -= 0.02
 if(image_alpha<=0){
 	instance_destroy()
 }
+if(y<56){
+	instance_destroy()
+}

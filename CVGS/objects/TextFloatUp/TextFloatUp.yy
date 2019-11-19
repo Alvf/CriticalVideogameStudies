@@ -5,16 +5,6 @@
     "name": "TextFloatUp",
     "eventList": [
         {
-            "id": "2330f71c-ebf3-4608-9bc4-865b9eea8e7d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "9a680599-f944-47bc-8e5f-55aaeff72e4c"
-        },
-        {
             "id": "0791be8a-8b51-4ce1-9ca5-f3b15e0afc01",
             "modelName": "GMEvent",
             "mvc": "1.0",

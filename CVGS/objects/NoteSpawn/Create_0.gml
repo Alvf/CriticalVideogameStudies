@@ -21,6 +21,12 @@ switch(prevplat){
 		delay = 400
 		delayspawn = 600
 	break;
+	
+	case 1:
+		totalnotes = 1
+		creatednotes = totalnotes
+		toughness = 10
+		delay = 400
+		delayspawn = 600
+	break;
 }
-
-spawning = true
