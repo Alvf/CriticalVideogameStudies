@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-show_debug_message("randomizing!")
 
 switch(irandom(7)){
 	case 0:
@@ -29,11 +28,14 @@ switch(irandom(7)){
 		global.likesprite = sprite23
 		break;
 }
-switch(irandom(1)){
+switch(irandom(2)){
 	case 0:
 		global.playersprite = Avatar
 		break;
 	case 1:
 		global.playersprite = Avatar1
+		break;
+	case 2:
+		global.playersprite = Avatar11
 		break;
 }

@@ -9,3 +9,5 @@ firetime = 0
 plattime = 0
 
 invisible = false
+
+threshold = 0.001

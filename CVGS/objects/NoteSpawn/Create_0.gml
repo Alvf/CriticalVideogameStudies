@@ -4,6 +4,8 @@
 //reset score on start
 global.guitarscore = 0
 
+fired = false
+
 wtime = current_time
 atime = current_time
 stime = current_time

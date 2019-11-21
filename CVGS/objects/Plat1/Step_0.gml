@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var threshold = 0.05
+
 
 if(distance_to_object(object0)<=2){
 	plattime = current_time

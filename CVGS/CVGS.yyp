@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "a6d84145-165f-4036-a241-fcdfc77055d6",
+            "Value": {
+                "id": "26f49983-d570-424a-b9ed-30543cf5557b",
+                "resourcePath": "sprites\\Avatar11\\Avatar11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "0869bb15-6f2f-4267-b9ac-af4a666eaca5",

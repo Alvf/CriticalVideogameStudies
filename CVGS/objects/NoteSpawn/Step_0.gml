@@ -1,15 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(totalnotes <=0){
+if(totalnotes <=0 and !fired){
 	if(global.guitarscore>=global.scorereq[prevplat]){
 	global.platstates[prevplat] = 1
 	}
 	else{
 	global.platstates[prevplat] = 2
 	}
-	show_debug_message(prevplat)
-	show_debug_message(global.platstates[prevplat])
-	room_goto(prevroom)
+	alarm[0] = 2*room_speed
+	fired = true
 }
 
 if(current_time-droptime>=delayspawn and creatednotes>0){
