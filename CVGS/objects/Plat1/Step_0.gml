@@ -7,7 +7,7 @@ if(distance_to_object(object0)<=2){
 	plattime = current_time
 	if(random_range(0,1)<=threshold and !fired and plattime-firetime>=1500){
 		var wordbarf = instance_create_layer(random_range(x,x+64*image_xscale),y,"Instances",Welcome1)
-		wordbarf.image_index = floor(random_range(lowtext,hightext+1))
+		wordbarf.sprite_index = things2say[irandom(array_length_1d(things2say)-1)]
 		if((wordbarf.x+256)>1056 or wordbarf.x<32){
 			instance_destroy(wordbarf)
 		}

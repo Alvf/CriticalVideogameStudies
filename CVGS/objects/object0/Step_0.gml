@@ -36,6 +36,7 @@ else if(current_state = states.falling){
 	vspeed +=1
 	
 	if(keyboard_check(ord("S"))){
+
 		vspeed +=1
 		if(hspeed == 7){
 			hspeed = 5

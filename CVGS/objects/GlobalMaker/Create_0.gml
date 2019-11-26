@@ -11,3 +11,6 @@ global.scorereq[1] = 1
 
 global.prevroom = room
 global.prevplat = 0
+
+global.likesprite = sprite2
+global.playersprite = Avatar
