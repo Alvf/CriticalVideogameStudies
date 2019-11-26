@@ -6,7 +6,7 @@ global.guitarscore = 0
 
 fired = false
 
-audio_play_sound(GuitarTheme,40,false)
+audio_play_sound(Battlesound,40,false)
 
 wtime = current_time
 atime = current_time
