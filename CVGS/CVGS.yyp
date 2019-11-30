@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "70d28d3b-502a-4b79-b1f9-9646162de00d",
+            "Value": {
+                "id": "34770606-1702-433e-b088-7ffcbc4a5145",
+                "resourcePath": "sprites\\jumparound\\jumparound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70dc59d9-8d8d-4dac-9405-1acf37ef9f74",
             "Value": {
                 "id": "3b2ca918-52ab-49d8-9aa7-05fb03c30d2f",
@@ -524,6 +532,14 @@
                 "id": "162be48d-89e1-4004-b7ff-b562016f7965",
                 "resourcePath": "objects\\object6\\object6.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7caf9dbd-ac9c-46e3-93b1-1c4a770a7f50",
+            "Value": {
+                "id": "20ba98bc-cc2c-409b-b0e2-d6b3c09691aa",
+                "resourcePath": "sprites\\postquestion\\postquestion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -852,6 +868,14 @@
                 "id": "00343a39-46c1-4371-b711-fb8d4b448a32",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d382adfd-549e-4fc3-a0de-cee8c7fe9313",
+            "Value": {
+                "id": "34b8215e-120c-4e77-b681-3cf9cd29301d",
+                "resourcePath": "sprites\\how2post\\how2post.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -17,6 +17,13 @@ switch(state){
 	}
 	break;
 	
+	case notifstates.preidle:
+		if(object0.y<= vertcheck){
+			intime = current_time
+			state = notifstates.idlein
+		}
+	break;
+	
 	case notifstates.idlein:
 		if(current_time-intime>= timer){
 			state = notifstates.appearing
