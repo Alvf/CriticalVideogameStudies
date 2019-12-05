@@ -20,7 +20,6 @@ prevplat = global.prevplat
 switch(prevplat){
 	case 0:
 		totalnotes = 10
-		creatednotes = totalnotes
 		toughness = 20
 		delay = 400
 		delayspawn = 600
@@ -28,9 +27,16 @@ switch(prevplat){
 	
 	case 1:
 		totalnotes = 1
-		creatednotes = totalnotes
 		toughness = 10
 		delay = 400
 		delayspawn = 600
 	break;
+	
+	case 2:
+		totalnotes = 20
+		toughness = 25
+		delay = 400
+		delayspawn = 500
+		
 }
+creatednotes = totalnotes

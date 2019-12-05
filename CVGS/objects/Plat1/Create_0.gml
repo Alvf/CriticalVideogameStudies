@@ -9,7 +9,7 @@ invisible = false
 
 threshold = 0.01
 
-things2say[0] =  First
+things2say[0] = First
 things2say[1] = hi
 things2say[2] = welcome
 things2say[3] = welcomee

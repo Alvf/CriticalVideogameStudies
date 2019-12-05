@@ -1,2 +1,2 @@
 sprite_index = jumparound
-timer = 4000
+timer = 3000
