@@ -12,7 +12,8 @@
         "77475e86-6213-4805-89b4-e59a94775da5",
         "d91c31b0-b0e2-4fc1-a3fc-1f0fa96f7d6f",
         "c0094b7a-87eb-48c2-8cad-ceef642aa34d",
-        "6eab4869-60b0-44a2-b654-0cc2b68aef5b"
+        "6eab4869-60b0-44a2-b654-0cc2b68aef5b",
+        "f421ba42-3bc5-4cfc-a67c-73cb60a48028"
     ],
     "filterType": "GMSprite",
     "folderName": "Floaties",

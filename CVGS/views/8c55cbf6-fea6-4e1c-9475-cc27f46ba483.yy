@@ -8,7 +8,8 @@
         "3eefe947-137b-4174-a177-9b44fc934e31",
         "bdfbcc77-e947-4aa6-822d-1dca6b491b4f",
         "2198de78-2f00-476f-8430-18f857a73a2f",
-        "1591aa72-9214-48f0-9521-1392f465a823"
+        "1591aa72-9214-48f0-9521-1392f465a823",
+        "68203ab9-135d-49cf-97b0-86a10a0ca795"
     ],
     "filterType": "GMSprite",
     "folderName": "FriendMessages",

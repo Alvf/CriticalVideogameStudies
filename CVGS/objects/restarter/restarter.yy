@@ -1,24 +1,24 @@
 {
-    "id": "b0bd3b25-d0d4-47d4-8582-116e3d9b8bae",
+    "id": "712d8432-4ad8-44eb-a8a2-2bd0effaf43d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Cheater",
+    "name": "restarter",
     "eventList": [
         {
-            "id": "d1a13730-1f08-43e0-b420-a54a00d58e24",
+            "id": "2d5fbc96-6122-4191-80fa-2555dfab6f91",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 80,
+            "enumb": 32,
             "eventtype": 10,
-            "m_owner": "b0bd3b25-d0d4-47d4-8582-116e3d9b8bae"
+            "m_owner": "712d8432-4ad8-44eb-a8a2-2bd0effaf43d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": true,
+    "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,

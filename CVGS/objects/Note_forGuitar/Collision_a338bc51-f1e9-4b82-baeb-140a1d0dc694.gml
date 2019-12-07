@@ -4,7 +4,7 @@
 var logger = instance_place(x,y,Logger)
 if(logger.image_index == 1){
 	NoteSpawn.totalnotes--
-	global.guitarscore+=2
+	global.guitarscore+=1
 	switch(logger.sprite_index){
 		case Wsprite:
 		audio_play_sound(Wsound,40,false)
