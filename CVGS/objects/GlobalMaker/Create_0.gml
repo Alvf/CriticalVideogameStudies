@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+randomize()
 
 global.guitarscore = 0
 for(var i =0 ;i<3;i++){

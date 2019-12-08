@@ -19,7 +19,7 @@ if(logger.image_index == 1){
 		audio_play_sound(Dsound,40,false)
 		break;
 	}
-	var text = instance_create_layer(x,y,"Instances",GoodGuitar)
+	var text = instance_create_layer(x+10,y,"Instances",GoodGuitar)
 	text.image_index = irandom(6)
 	instance_destroy()
 }
