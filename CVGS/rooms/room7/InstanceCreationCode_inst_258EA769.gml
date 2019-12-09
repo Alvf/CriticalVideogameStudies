@@ -1,2 +1,2 @@
-sprite_index = sprite63
+sprite_index = hahajaja
 timer = 2000

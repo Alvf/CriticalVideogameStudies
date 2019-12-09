@@ -14,7 +14,10 @@
         "a3e8fbe3-87c2-4a95-b1d0-581acd806a15",
         "3e133512-6199-4782-98d5-e1d79f34691d",
         "50a1f63e-1d96-4bb0-932f-7f249faad804",
-        "59cd088b-4589-4210-a470-d859d983318e"
+        "59cd088b-4589-4210-a470-d859d983318e",
+        "b36abf39-2c42-40c9-814a-010b7f118469",
+        "44b9de06-b55d-4c12-82f7-8a000c9a12fe",
+        "fb9bdd07-c3fe-4f0c-9d83-ba1d1f67b5d1"
     ],
     "filterType": "GMSprite",
     "folderName": "Messages",

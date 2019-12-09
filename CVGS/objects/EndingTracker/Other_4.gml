@@ -9,13 +9,13 @@ break;
 case EndingRoom:
 
 var elapsedtime = current_time-tstart
-	if(elapsedtime>=480000){
+	if(elapsedtime>=300000){
 		endtick = endtick | $010
 	}
 	if(score>=6){
 		endtick = endtick | $001
 	}
-	if(score>=5 and score <=7 and elapsedtime<=695000 and elapsedtime>=375000){
+	if(score>=5 and score <=7 and elapsedtime<=360000 and elapsedtime>=240000){
 		endtick = endtick | $100
 	}
 

@@ -5,4 +5,4 @@ if(image_alpha<=1){
 	image_alpha+=0.05
 }
 
-y = y0+sin(current_time/1000)
+y = y0+15*sin(current_time/1000)
