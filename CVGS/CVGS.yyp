@@ -823,6 +823,14 @@
             }
         },
         {
+            "Key": "95dbd2c4-1c49-4623-9c3e-63750e11afc5",
+            "Value": {
+                "id": "9ed0b6f4-d956-4c5b-a0cb-80891d6df1b0",
+                "resourcePath": "sounds\\miss\\miss.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9748c138-521a-46fe-8996-b12fac86012a",
             "Value": {
                 "id": "bb40ba5d-1988-48b5-a0be-689c14271706",
