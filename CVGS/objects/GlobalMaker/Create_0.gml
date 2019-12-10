@@ -13,7 +13,7 @@ global.scorereq[2] = 0
 global.prevroom = room
 global.prevplat = 0
 
-switch(irandom(8)){
+switch(irandom(7)){
 	case 0:
 	global.likesprite = sprite2
 	break;
@@ -44,10 +44,6 @@ switch(irandom(8)){
 	
 	case 7:
 	global.likesprite = sprite23
-	break;
-	
-	case 8:
-	global.likesprite = sprite65
 	break;
 }
 
